@@ -1,0 +1,45 @@
+👵 Program: Numerical integration
+    trapezoidal rule for
+    integral (x^2) from a to b.
+Date: March 18 of 2018.
+Author: Jaime Reyes. 👵
+🏁🍇
+    🍰 x 🚀
+    🍰 delta 🚀
+    🍰 a 🚀
+    🍰 b 🚀
+    🍰 sigma 🚀
+    🍰 trapezoids 🚀
+    🍰 fx 🚀
+    🍰 i 🚂
+    🍰 limit 🚂
+    🍮 a -3.0
+    🍮 b 3.0
+    🍮 sigma 0.0
+    🍮 trapezoids 40.0
+    🍮 delta ➗ ➖ b a trapezoids
+    🍮 i 0
+    🍮 x a
+    🍮 limit ➕ 🏇trapezoids 1 👴 The horse rounds to integer.
+    🔁 ◀ i limit 🍇 👴 Do-while loop
+       🍮 fx ✖ x x 👴 This is what f(x) does, e.g. f(x) = x^2
+        🍊 😛 i 0 🍇
+        🍉
+        🍓 🍇
+            🍊 😛 i ➖ limit 1 🍇
+            🍉
+            🍓 🍇
+                🍮 fx ✖ fx 2.0
+            🍉
+        🍉
+        🍮 sigma ➕ sigma fx
+        🍮 x ➕ x delta
+        🍮 i ➕ i 1
+    🍉
+    🍮 sigma ✖ sigma delta
+    🍮 sigma ➗ sigma 2.0
+   😀 🔤 Integral value: 🔤
+   😀 🔡 sigma 10
+🍉
+
+
